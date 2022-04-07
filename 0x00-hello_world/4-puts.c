@@ -4,7 +4,7 @@
 int main(void)
 {
 	/* This program prints oputput using the put function */
-	char str[] = 'Programming is like building a multilingual puzzle';
+	char str[] = "Programming is like building a multilingual puzzle";
 
 	puts(str);
 
