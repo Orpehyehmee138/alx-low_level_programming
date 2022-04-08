@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
  * main - betty this is for you
+ *
+ * Return: Always (0) Success
  */
 int main(void)
 {

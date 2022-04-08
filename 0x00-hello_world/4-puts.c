@@ -2,6 +2,8 @@
 #include <string.h>
 /**
  * main - Betty has been disturbing me for a description
+ *
+ * Return: Always (0) Success
  */
 int main(void)
 {
